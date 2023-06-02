@@ -1,0 +1,21 @@
+.wrapper {
+  display: flex;
+  flex-direction: column;
+  gap: 20px;
+  align-items: center;
+  margin-top: 200px;
+}
+
+.reset {
+  display: block;
+  margin: 0 auto;
+  height: 60px;
+  width: 200px;
+  background: inherit;
+  border: 3px solid rgb(252, 160, 160);
+  cursor: pointer;
+  color: rgb(252, 160, 160);
+  font-size: 24px;
+  font-weight: 700;
+  border-radius: 5px;
+}
